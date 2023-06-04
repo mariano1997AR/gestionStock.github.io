@@ -1,0 +1,10 @@
+/*Fuentes*/
+@import url('https://fonts.googleapis.com/css2? family= Roboto:wght@100 & display=swap');
+
+
+.titulo{
+    text-align: center;
+    color: rgba(16, 102, 242, .5); 
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+}
